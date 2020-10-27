@@ -1,4 +1,4 @@
-# Unit-10-Homework
+# Unit-10-Homework - three files; part 1, part 2 and readme
 Based on the p-values, is the model a good fit (p < 0.05)?
 
 Our ARIMA-model p value of .36 was a much better fit for the data than the ARMA model, which had a p value of .42
